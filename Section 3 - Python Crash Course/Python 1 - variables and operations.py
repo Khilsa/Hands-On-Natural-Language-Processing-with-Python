@@ -1,7 +1,5 @@
 # Introduction to Python
 
-# belajar variable dan operator
-
 # Printing to he console
 
 print("Hello world")
